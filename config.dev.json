@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100017555747989",
+    "61578782186857",
     ""
   ],
   "whiteListMode": {
@@ -37,15 +37,15 @@
   "timeZone": "Africa/Lagos",
     "credentials": {
     "gmailAccount": {
-      "email": "romeobot555@gmail.com",
+      "email": "tuamichel06@gmail.com",
       "clientId": "938512788954-ndaggmsbqkf0a6ougkc7p0iek446ikt1.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//046ZXiqfQpbF1CgYIARAAGAQSNwF-L9Ir8uPenmtD9Co8psKc7goPgaxSfYG_TJreIbnB1mKgwC0vKP9t4Ir-kxjf-YMNGd124TQ",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LfH6HQrAAAAACmNc3LTiJFLiUvMpFblCUqj6pd1",
-      "secretKey": "6LfH6HQrAAAAAEhnFm96bt-CeDuXcAGDFKeWPVEq"
+      "siteKey": "6Lcma7csAAAAAPNMO6TwhFsSbKNLvRI9QalsNJeM",
+      "secretKey": "6Lcma7csAAAAAHTDqBasvOl99rgbH4zS9sMO_QpH"
     }
   },
   "dashBoard": {
